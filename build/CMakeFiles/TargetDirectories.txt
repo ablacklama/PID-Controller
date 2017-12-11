@@ -1,3 +1,0 @@
-/mnt/c/Users/Spencer/Google Drive/Programming/SDC/CarND-PID-Control-P9/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Spencer/Google Drive/Programming/SDC/CarND-PID-Control-P9/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Spencer/Google Drive/Programming/SDC/CarND-PID-Control-P9/build/CMakeFiles/pid.dir
